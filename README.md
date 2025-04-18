@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anil patel n</h1>
-<h3 align="center">A passionate Java full stack developer from India</h3>
+<h3 align="center">A passionate Web developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anilkalbi&label=Profile%20views&color=0e75b6&style=flat" alt="anilkalbi" /> </p>
 
